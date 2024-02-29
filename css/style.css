@@ -1,0 +1,98 @@
+p,dd,li {
+    color: #526D82;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style:normal;
+}
+.home-h1 {
+    font-family: "Ibarra Real Nova", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 250%;
+}
+#h2 {
+    color: #365486;
+        font-family: "Roboto Slab", serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+}
+h5 {
+    color: #3282B8;
+        font-family: "Roboto Slab", serif;
+            font-optical-sizing: auto;
+            font-weight:400 ;
+            font-style: normal;
+}
+h6 {
+    color: white;
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+}
+
+/* navigation bar */
+.navbar {
+    background-color: #3282B8;
+}
+.navbar-brand {
+    color: #112D4E !important;
+    font-family: "Cabin", sans-serif;
+    font-weight: 900;
+    font-variation-settings:"wdth" 100;
+    position: relative;
+    left:40px;
+}
+.nav-link{
+    color: #112D4E !important;
+}
+.nav-link:hover{
+    color: #9DB2BF !important;
+}
+
+/* home section */
+#home {
+    padding-top: 12%;
+    text-align: center;
+    background-color: #F9F7F7;
+}
+#home-content {
+    position: relative;
+    top: 50px;
+}
+.cloud-img1 {
+    top:80px;
+    position: relative;
+}
+.cloud-img2 {
+    bottom: 10px;
+    position: relative;
+}
+.pc {
+    margin: 60px auto 10px auto;
+}
+
+/* about section */
+#about {
+    padding: 5% 10%;
+    background-color: #DBE2EF;
+    line-height: 2;
+}
+
+/* skills  */
+ul {
+    list-style-type:disc;
+}
+
+/* footer  */
+#footer {
+    background-color: #3F72AF;
+    text-align: center;
+}
+.footer-icon{
+    text-decoration: none;
+    color: #112D4E;
+}
+.footer-icon:hover {
+    color: #9DB2BF ;
+}
