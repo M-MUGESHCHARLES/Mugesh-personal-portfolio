@@ -83,6 +83,14 @@ h6 {
 ul {
     list-style-type:disc;
 }
+.mail-btn {
+    color: #3282B8;
+}
+
+.mail-btn:hover {
+    color:#DBE2EF;
+    background-color:#3282B8 ;
+}
 
 /* footer  */
 #footer {
