@@ -28,7 +28,8 @@ h5 {
 h6 {
     color: white;
     font-family: "Roboto Slab", serif;
-    font-weight: 500;
+    font-weight: 400;
+    font-size: 0.7rem;
 }
 
 /* navigation bar */
